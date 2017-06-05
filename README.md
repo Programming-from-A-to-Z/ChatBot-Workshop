@@ -21,6 +21,8 @@ In this workshop, we'll discuss a brief history of "chatbots" (computer programs
 - [wit.ai](https://wit.ai/)
 - [api.ai](https://api.ai/)
 - [Pandora Bots](https://www.pandorabots.com/)
+- [Amazon Lex](https://aws.amazon.com/lex/)
+- [Recast.AI](https://recast.ai/)
 
 ## Resources / Reading
 - [Slides](https://docs.google.com/presentation/d/1NCeg8WJnH2RFU-VTMpYCffPGHkFRDAoED4LwK6affvI/edit?usp=sharing)
