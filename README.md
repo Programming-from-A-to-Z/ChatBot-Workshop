@@ -21,6 +21,8 @@ In this workshop, we'll discuss a brief history of "chatbots" (computer programs
 - [wit.ai](https://wit.ai/)
 - [api.ai](https://api.ai/)
 - [Pandora Bots](https://www.pandorabots.com/)
+- [Amazon Lex](https://aws.amazon.com/lex/)
+- [Recast.AI](https://recast.ai/)
 
 ## Resources / Reading
 - [Slides](https://docs.google.com/presentation/d/1NCeg8WJnH2RFU-VTMpYCffPGHkFRDAoED4LwK6affvI/edit?usp=sharing)
@@ -34,4 +36,3 @@ In this workshop, we'll discuss a brief history of "chatbots" (computer programs
 ## Training Data
 - [IMSDb](http://www.imsdb.com/)
 - [Ubuntu Dialogue Corpus](https://arxiv.org/abs/1506.08909)
-- [Cornell Movie-Dialogs Corpus](https://people.mpi-sws.org/~cristian/Cornell_Movie-Dialogs_Corpus.html)
