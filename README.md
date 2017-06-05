@@ -36,3 +36,4 @@ In this workshop, we'll discuss a brief history of "chatbots" (computer programs
 ## Training Data
 - [IMSDb](http://www.imsdb.com/)
 - [Ubuntu Dialogue Corpus](https://arxiv.org/abs/1506.08909)
+- [Cornell Movie-Dialogs Corpus](https://people.mpi-sws.org/~cristian/Cornell_Movie-Dialogs_Corpus.html)
