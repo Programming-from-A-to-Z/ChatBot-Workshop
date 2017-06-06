@@ -8,6 +8,8 @@ In this workshop, we'll discuss a brief history of "chatbots" (computer programs
 - [RiveScript Playground](https://play.rivescript.com/)
 - [RiveScript Python](https://github.com/aichaos/rivescript-python)
 - [RiveScript JavaScript](https://github.com/aichaos/rivescript-js)
+- [Alexa-Rivescript-Chatbot](https://github.com/ekt1701/Alexa-Rivescript-Chatbot) 
+- [QuickBlox Chatbots](http://quickblox.com/developers/ChatBots)
 
 ## Examples of "Chat Bots"
 - [Eliza](https://en.wikipedia.org/wiki/ELIZA), 1966
@@ -37,3 +39,13 @@ In this workshop, we'll discuss a brief history of "chatbots" (computer programs
 - [IMSDb](http://www.imsdb.com/)
 - [Ubuntu Dialogue Corpus](https://arxiv.org/abs/1506.08909)
 - [Cornell Movie-Dialogs Corpus](https://people.mpi-sws.org/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+
+### Libraries
+
+- [Go](https://github.com/aichaos/rivescript-go) - Official Go port.
+- [Java](https://github.com/aichaos/rivescript-java) - Official Java port.
+- [JavaScript](https://github.com/aichaos/rivescript-js) - Official JavaScript port.
+- [Perl](https://github.com/aichaos/rivescript-perl) - Official Perl port.
+- [Python](https://github.com/aichaos/rivescript-python) - Official Python (2 and 3) port.
+- [C#](https://github.com/fabioravila/rivescript-csharp) - RiveScript for C#/.Net
+- [PHP](https://github.com/vulcan-project/rivescript-php) - In-development RiveScript library for PHP.
