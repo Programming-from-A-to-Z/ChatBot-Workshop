@@ -5,8 +5,7 @@
 // These are values that the bot will store
 // They can be changed
 // ! means 'define'
-! var name = Tutorial
-! var age  = 5
+! var name = bot
 
 // Substitutions
 // These allow you to interpret multiple variations from a user.
