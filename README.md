@@ -8,8 +8,11 @@ In this workshop, we'll discuss a brief history of "chatbots" (computer programs
 - [RiveScript Playground](https://play.rivescript.com/)
 - [RiveScript Python](https://github.com/aichaos/rivescript-python)
 - [RiveScript JavaScript](https://github.com/aichaos/rivescript-js)
-- [Alexa-Rivescript-Chatbot](https://github.com/ekt1701/Alexa-Rivescript-Chatbot) 
+- [Alexa-Rivescript-Chatbot](https://github.com/ekt1701/Alexa-Rivescript-Chatbot)
 - [QuickBlox Chatbots](http://quickblox.com/developers/ChatBots)
+
+## RiveScript + p5 web editor Example
+* http://alpha.editor.p5js.org/icm/sketches/rkT3XCrG-
 
 ## Examples of "Chat Bots"
 - [Eliza](https://en.wikipedia.org/wiki/ELIZA), 1966
