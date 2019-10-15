@@ -39,7 +39,6 @@ In this workshop, we'll discuss a brief history of "chatbots" (computer programs
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c)
 - [Persona-Based Neural Conversation Model](https://arxiv.org/pdf/1603.06155.pdf) - Jiwei Li, Michel Galley, Chris Brockett, Georgios P. Spithourakis, Jianfeng Gao, Bill Dolan
 - Video tutorial: [Deep Learning Chatbot using Keras and Python - Part I (Pre-processing text for inputs into LSTM)](https://www.youtube.com/watch?v=8lG6qRIdSA0)
-- [Siraj's Build a Chatbot video](https://www.youtube.com/watch?v=5_SAroSvC0E)
 - [Chatting with a Deep learning brain](https://medium.com/@julien_c/chatting-with-a-deep-learning-brain-fff7a8656c4b) by Julien Chaumond
 
 ## Training Data
